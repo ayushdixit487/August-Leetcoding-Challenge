@@ -1,0 +1,8 @@
+Hint 1 : 
+An easy approach is to sort the array first.
+
+Hint 2 : 
+What are the possible values of h-index?
+
+Hint 3 :
+A faster approach is to use extra space.
